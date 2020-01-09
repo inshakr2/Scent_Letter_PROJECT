@@ -65,12 +65,12 @@ __8. pickle__
 
 [향수 Data](https://www.fragrantica.com/): 모든 향수의 data를 수집한 Site 입니다. 
 
-[iri 색체연구소](http://www.iricolor.com/index3.html): 시각에 대한 형용사를 조회하기 위하여 참고한 Site 입니다.
+[iri 색연구소](http://www.iricolor.com/index3.html): 시각에 대한 형용사를 조회하기 위하여 참고한 Site 입니다.
   
 [설문조사](https://forms.gle/x3TANSHC86FLNsvz5): 향과 형용사를 매칭시킬 때 사용한 Google form 입니다.
 
 참고 논문 
-  > 색체를 매개변수로 활용한 시각과 후각의 상관관계 연구 (예사길, 2012)
+  > 색채를 매개변수로 활용한 시각과 후각의 상관관계 연구 (예사길, 2012)
   > 
   > 후각 중심의 감성디자인을 위한 색체 공감각 연구 (박민영, 2012)
   >
