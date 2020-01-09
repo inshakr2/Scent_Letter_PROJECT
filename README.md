@@ -23,6 +23,7 @@ __1. sklearn__
 __2. tensorflow__
 
 __3. keras__
+  * ADAM Optimizer
   
 __4. numpy__
 
