@@ -43,7 +43,7 @@ __8. pickle__
     Data folder를 사용자 지정 directory에 저장합니다. 
     
     
-    다음으로 함께 첨부되어 있는 Exe.py 파일을 Python에서 open 하고 지정한 directory를 입력합니다.
+    다음으로 함께 첨부되어 있는 Function.py 파일을 Python에서 open 하고 지정한 directory를 입력합니다.
     
     마지막으로 함수를 compile 한 뒤에 실행합니다.
     
